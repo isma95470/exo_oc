@@ -6,3 +6,7 @@
      le modifier et cloner du code.
 
      Voici une première modification
+
+     La deuxième
+     Je pense avoir acquis les bases de git
+     
